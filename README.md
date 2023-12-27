@@ -3,7 +3,7 @@
 
 <h3 align="center">A passionate full stack developer from Coimbatore</h3>
 
-### "Code until you find your solution"! 👋
+### Keep coding until you discover the solution! 🧩👋
 
 ![run](https://media.giphy.com/media/13rQ7rrTrvZXlm/giphy.gif)
 
