@@ -4,10 +4,9 @@
 <h3 align="center">A passionate full stack developer from Coimbatore</h3>
 
 ### "Code until you find your solution"! 👋
-![run](https://i.gifer.com/En1y.gif)
 
+![run](https://i.gifer.com/3kbo.gif)
 
-- 🌱 I’m currently learning **Next.js**
 
 - 📫 How to reach me **balamurugan.contact@gmail.com**
 
