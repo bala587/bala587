@@ -5,7 +5,7 @@
 
 ### "Code until you find your solution"! 👋
 
-![run](https://giphy.com/gifs/geek-the-incredibles-writing-schedule-13rQ7rrTrvZXlm/fullscreen)
+![run](https://media.giphy.com/media/13rQ7rrTrvZXlm/giphy.gif)
 
 
 - 📫 How to reach me **balamurugan.contact@gmail.com**
