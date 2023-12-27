@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bala</h1>
 
 
-<h3 align="center">A passionate full stack developer from Coimbatore</h3> 
+## A passionate full stack developer from Coimbatore</h3> 
 
 ### Keep coding until you discover the solution! 🧩👋
 
