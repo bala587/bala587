@@ -1,5 +1,4 @@
-<h1 align="center">Hi ![run](https://media.giphy.com/media/13rQ7rrTrvZXlm/giphy.gif)
- I'm Bala</h1>
+<h1 align="center">Hi 👋, I'm Bala</h1>
 
 
 <h3 align="center">A passionate full stack developer from Coimbatore</h3> 
