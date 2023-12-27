@@ -2,6 +2,7 @@
 
 
 <h2 align="center"> 👨‍💻 A passionate full stack developer from Coimbatore </h2>
+![run](https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif)
 
 ### Keep coding until you discover the solution! 🧩👋
 
