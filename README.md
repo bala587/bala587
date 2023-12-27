@@ -4,7 +4,7 @@
 <h3 align="center">A passionate full stack developer from Coimbatore</h3>
 
 ### "Code until you find your solution"! 👋
-![run](https://giphy.com/gifs/CocaColaLatam-ynadaarg-ynadanaranja-Ph6ql5CsxT16RXrTaw/fullscreen)
+![run](https://i.gifer.com/1To.gif)
 
 
 - 🌱 I’m currently learning **Next.js**
