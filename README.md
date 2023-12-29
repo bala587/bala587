@@ -4,7 +4,7 @@
 <h2 align="center"> 👨‍💻 A passionate full stack developer from Coimbatore </h2>
 
 
-### Keep coding until you discover the solution! 🧩👋
+### Keep coding until you discover the solution! ✨
 
 ![run](https://media.giphy.com/media/13rQ7rrTrvZXlm/giphy.gif)
 
